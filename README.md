@@ -1,7 +1,3 @@
-Here is a draft for the `README.md` file:
-
----
-
 # Digital Reading Assistant - ReadAloud
 
 This project is a Digital Reading Assistant developed as an undergraduate project at the Department of Electrical & Computer Engineering, University of Peloponnese for the course "Digital Sound and Image Processing." The project was performed by Tzavara A., under the supervision of Associate Prof. Athanasios Koutras.
@@ -68,6 +64,3 @@ You will also need to set up an API key for ElevenLabs and a Google Cloud creden
 
 This project is intended for educational purposes and may not be used for commercial applications without proper licensing.
 
----
-
-Feel free to edit and expand this draft to include more specific details or instructions.
